@@ -2,3 +2,5 @@
 #2 Bye
 #3 Why
 #4 Shy
+#5 Wifi
+#6 JioFi
