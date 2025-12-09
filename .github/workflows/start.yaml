@@ -1,0 +1,10 @@
+name: StartFlow
+run-name:$ {{github.actor}} is the one pushing the changes.
+on: push
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      -name: step1
+       run: echo "hey there"
+      
