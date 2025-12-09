@@ -1,5 +1,5 @@
 name: StartFlow
-run-name:$ {{github.actor}} is the one pushing the changes.
+run-name:${{ github.actor }} is learning GitHub
 on: push
 jobs:
   job1:
